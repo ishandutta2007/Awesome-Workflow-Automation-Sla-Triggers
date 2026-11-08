@@ -5,10 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&loCColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers?style=social" alt="GitHub Forks"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🌟 **A curated directory of top Workflow Automation, Business Process Management (BPM), and SLA Trigger platforms** — highlighting enterprise commercial SaaS systems and powerful open-source workflow orchestration engines for mission-critical deadline enforcement, time-based triggers, and automated escalation workflows.
@@ -22,6 +25,8 @@
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
 - [💡 Architectural Patterns for SLA Enforcement](#-architectural-patterns-for-sla-enforcement)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -133,6 +138,23 @@ Contributions are warmly welcomed! To suggest an open-source workflow automation
 2. 🌿 Create your feature branch (`git checkout -b feature/add-new-tool`).
 3. 📝 Add the tool to the appropriate table in alphabetical or star-sorted order with URL, primary stack, and standout capabilities.
 4. 🚀 Open a well-documented Pull Request.
+
+---
+
+## 💖 Support
+
+If you found this curated list valuable for your projects or research, please consider supporting the project:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and share it with your engineering and DevOps colleagues.
+- 📢 **Share** your feedback, use cases, or suggested additions via GitHub issues or discussions.
+- ☕ **Buy a coffee & sponsor**: Support continuous maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers&type=date&legend=top-left)
 
 ---
 
