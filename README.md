@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&loCColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers?style=social" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Workflow-Automation-Sla-Triggers?style=social" alt="GitHub Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
@@ -62,9 +62,9 @@ Below is a breakdown of prominent commercial SaaS platforms offering workflow au
 
 Self-hosted, community-driven workflow engines, durable execution platforms, and dedicated SLA trigger tools. 
 
-The table below is sorted in descending order by **GitHub Star Count**:
+The table below is sorted in descending order by **GitHub Stars_Count**:
 
-| Project | GitHub Stars | Primary Stack | License | Core SLA & Timer Mechanism | Best For |
+| Project | GitHub_Stars | Primary Stack | License | Core SLA & Timer Mechanism | Best For |
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** 🪢 | [![n8n Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | Fair-code (Sustainable Use) | Cron node, interval triggers, Wait node (resume on date/webhook), and error workflow escalations. | Self-hosted integration workflows & automated webhook/time-based escalations. |
 | **[Huginn](https://github.com/huginn/huginn)** 🦅 | [![Huginn Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers) | Ruby | MIT | Event-driven agents, scheduler triggers, delayed notification agents, and threshold breach triggers. | Building custom event monitors, alerting pipelines, and rule-based SLA watchdogs. |
